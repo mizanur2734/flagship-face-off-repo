@@ -1,10 +1,14 @@
-function App() {
-  return (
-    <>
-      <h1 className="text-5xl font-bold underline">Vite + React</h1>
-      <button className="btn btn-primary">button</button>
-    </>
-  );
-}
+// import { Outlet } from "react-router";
 
-export default App;
+// function App() {
+//   return (
+//     <>
+//       <h1 className="text-5xl font-bold underline">Navbar</h1>
+//       <Outlet />
+//       <h1 className="text-5xl font-bold underline">Footer</h1>
+//       {/* placeholder component */}
+//     </>
+//   );
+// }
+
+// export default App;
